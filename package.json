@@ -1,7 +1,7 @@
 {
   "name": "@nodifier/stream",
   "scope": "nodifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to convert stream readable to string in NodeJS",
   "main": "dist/index.js",
   "scripts": {
